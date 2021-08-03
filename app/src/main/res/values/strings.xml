@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Projet</string>
+
+    <string-array name="spécialite">
+
+        <item> L’allergologie ou l’immunologie</item>
+        <item> La cardiologie</item>
+        <item> La chirurgie</item>
+        <item> La neurochirurgie</item>
+        <item> La dermatologie</item>
+        <item> L’endocrinologie</item>
+        <item> La gastro-entérologie</item>
+        <item> La gériatrie</item>
+        <item> La gynécologie</item>
+        <item> L’hématologie</item>
+        <item> L’hépatologie</item>
+        <item> L’infectiologie</item>
+        <item> La médecine aiguë</item>
+        <item> La médecine du travail</item>
+        <item> La médecine générale</item>
+        <item> La médecine interne</item>
+        <item> La médecine nucléaire</item>
+        <item> La médecine physique</item>
+        <item> La médecine préventive</item>
+        <item> La néonatologie</item>
+        <item> La néphrologie</item>
+        <item> La neurologie</item>
+        <item> L’odontologie</item>
+        <item> L’oncologie</item>
+        <item> L’obstétrique</item>
+        <item> L’ophtalmologie</item>
+        <item> L’orthopédie</item>
+        <item> L’Oto-rhino-laryngologie</item>
+        <item> La pédiatrie</item>
+        <item> La pneumologie</item>
+        <item> La psychiatrie</item>
+        <item> La radiologie</item>
+        <item> La radiothérapie</item>
+        <item> La rhumatologie</item>
+        <item> L’urologie</item>
+    </string-array>
+</resources>

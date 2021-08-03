@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "759546987161",
+    "project_id": "mondocteur-d153c",
+    "storage_bucket": "mondocteur-d153c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759546987161:android:5c9d4c28321b769bd52e08",
+        "android_client_info": {
+          "package_name": "com.example.projet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759546987161-rlj7sbaojntvb4fbrpokmr70731cehp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projet",
+            "certificate_hash": "8bb5144d68f1cf8c95f61f2c54a83a9f2c2e08e5"
+          }
+        },
+        {
+          "client_id": "759546987161-i99b94jpb01ourvljerigfd64ar04obl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7s_L3ZermZZphVEKroql8VO9RO06zSuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759546987161-i99b94jpb01ourvljerigfd64ar04obl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
