@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <item
+    android:id="@+id/menuprofile"
+    android:icon="@drawable/profile"
+    android:title="Profile"
+       />
+
+    <item
+        android:id="@+id/recherche_medecin"
+        android:icon="@drawable/recherche_medecin"
+        android:title="Recherche au médecin"
+        />
+
+    <item
+        android:id="@+id/List_rendez_vous"
+        android:icon="@drawable/rendez_vous"
+        android:title="list de rendez-vous "
+        />
+
+    <item
+        android:id="@+id/menunews"
+        android:icon="@drawable/news"
+        android:title="News"
+        />
+    <item
+        android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/deconnexion"
+                android:icon="@drawable/deconnexion"
+                android:title="Se déconnecter"
+                />
+
+        </menu>
+
+
+    </item>
+
+</menu>

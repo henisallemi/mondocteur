@@ -40,4 +40,19 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation platform('com.google.firebase:firebase-bom:28.3.0')
     implementation 'com.google.firebase:firebase-analytics'
+    //MATERIAL design
+    implementation 'com.google.android.material:material:1.2.0-alpha02'
+    //ROUNDED image view
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+
+    //NAVIGATION COMPONENT
+    implementation 'androidx.navigation:navigation-fragnent-ktx:2.2.0-rc03'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.2.0-rc03'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.2.0-rc03'
+
+
 }
+
+apply plugin: 'com.google.gms.google-services'
+
+
